@@ -1,0 +1,1 @@
+<XGNetProject Name="LSPLC" ProjectType="CANopen" NetworkType="Single" FileName="C:\XG5000\Projects\2차 프로젝트 컨베이어 제어 코드\2차 프로젝트 컨베이어 제어 코드.xgwx" Comment=""><Configurations Name="CANopen Network" PLCID="45058"><Configuration Name="CANopen_XBL_CMEA__CANOpen_통신_모듈,_Master_" Base="0" Slot="4" ModuleType="23060" ModuleOptionType="0"/></Configurations></XGNetProject>
